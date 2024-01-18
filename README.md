@@ -29,7 +29,7 @@ So SecDB will save the data in a database and when it save the data it secure th
 
 # Note
 
-Please note that the encrypted data cannot be seen again so it one time see and maybe you ask how can we see the data, you can see the data by writing the data it self on other safe file database and encrypt it with password. **This is not really like a real Blockchain but it use the Blockchain concept to make it secure**
+Please note that the encrypted data cannot be seen again so it one time see and maybe you ask how can we see the data, you can see the data by writing the data it self on other safe file database and encrypt it with password. **This is not really a real Blockchain but it use the Blockchain concept to make it secure**, **This project is still in development**
 
 # Original Project (without encryption)
 
