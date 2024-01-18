@@ -35,6 +35,11 @@ Please note that the encrypted data cannot be seen again so it one time see and 
 
 You can download the python file **without encryption** by downloading `SecDB-OR`
 
+# Commands
+
+`delete` to delete all the database
+`check` to check and delete all the database (same function)
+
 **made by Jose**
 
 
