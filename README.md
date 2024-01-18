@@ -12,7 +12,7 @@ SecDB is a open source python project that use blockchain concepts to secure its
 
 # How to use
 
-'python SecDB.py'
+`python SecDB.py`
 
 # liblary
 
