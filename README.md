@@ -1,8 +1,7 @@
 # SecDB
 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/SecDB-Python-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-Tools-green">
+<img alt="Static Badge" src="https://img.shields.io/badge/SecDB-Python-blue"><img alt="Static Badge" src="https://img.shields.io/badge/Python-Tools-green">
 <img alt="Static Badge" src="https://img.shields.io/badge/SHA-256-white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Block-Chain-yellow">
 
