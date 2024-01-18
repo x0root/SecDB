@@ -1,3 +1,4 @@
 # SecDB
 
-https://img.shields.io/badge/any_text-you_like-blue
+<img alt="Static Badge" src="https://img.shields.io/badge/Python?logo=Python&labelColor=White&color=Grey">
+
